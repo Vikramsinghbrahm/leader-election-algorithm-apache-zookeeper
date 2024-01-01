@@ -23,8 +23,8 @@ The `LeaderElection` class implements the Watcher interface from Apache ZooKeepe
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-project.git
-   cd your-project
+   git clone https://github.com/vikramsinghbrahm/leader-election-algorithm-apache-zookeeper.git
+   cd leader-election-algorithm-apache-zookeeper
    ```
 2. **Build the Project:**
    ```bash
